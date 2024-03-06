@@ -1,2 +1,2 @@
 # rustfs
-Emulation of FAT file system on Windows.
+Emulation of Ext2 filesystem on Windows.
